@@ -7,6 +7,7 @@ package messageapp3;
  *
  * @author lab_services_student
  */
+// ensure stored message code works and saves messages
 public class StoredMessage {
    private String recipient;
     private String message;
