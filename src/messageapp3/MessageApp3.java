@@ -265,7 +265,7 @@ private static final Scanner scanner = new Scanner(System.in);
             }
         }
     }
-    
+    //adding part 3
     // ===== STORED MESSAGES MENU (PART 3) =====
     private static void storedMessagesMenu() {
         boolean back = false;
