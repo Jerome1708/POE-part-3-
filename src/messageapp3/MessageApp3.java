@@ -128,7 +128,7 @@ private static final Scanner scanner = new Scanner(System.in);
     // ===== MAIN MENU =====
     private static void mainMenu() {
         boolean running = true;
-        
+        //menu for part 2
         while (running) {
             System.out.println("\n==================================================");
             System.out.println("   QUICKCHAT - MAIN MENU");
