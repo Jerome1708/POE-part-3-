@@ -14,6 +14,7 @@ import org.json.simple.parser.JSONParser;
 /**
  * @author lab_services_student
  */
+//add message from part 2
 public class Message {
 
     
