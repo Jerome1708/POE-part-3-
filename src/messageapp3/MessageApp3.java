@@ -11,6 +11,7 @@ import java.util.List;
  *
  * @author lab_services_student
  */
+//adding main methods
 public class MessageApp3 {
 private static final Scanner scanner = new Scanner(System.in);
     private static final Login userLogin = new Login();
