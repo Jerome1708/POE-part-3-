@@ -7,6 +7,7 @@ package com.mycompany.messageapp;
  *
  * @author lab_services_student
  */
+//add login from part 1
 public class Login {
    
     private String username;
