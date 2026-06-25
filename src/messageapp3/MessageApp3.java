@@ -281,6 +281,8 @@ private static final Scanner scanner = new Scanner(System.in);
             System.out.print("Enter your choice (a-g): ");
             
             String choice = scanner.nextLine().trim().toLowerCase();
+            //method for part3
+            
             
             switch (choice) {
                 case "a" -> Message.displayStoredMessages();
