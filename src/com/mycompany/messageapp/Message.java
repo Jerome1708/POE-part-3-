@@ -265,6 +265,7 @@ public class Message {
             // File might be empty - that's fine
         }
     }
+    //make sure test file work
 // ============================================================
 // RESET (for testing)
 // ============================================================
