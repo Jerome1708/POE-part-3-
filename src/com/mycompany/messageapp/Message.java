@@ -307,7 +307,7 @@ public static void populateTestData() {
     // ============================================================
     // STATIC GETTERS FOR UI
     // ============================================================
-
+//to make testing 100%
     public static List<String> getSentMessages() { return new ArrayList<>(sentMessages); }
     public static List<String> getDisregardedMessages() { return new ArrayList<>(disregardedMessages); }
     public static List<StoredMessage> getStoredMessages() { return new ArrayList<>(storedMessages); }
