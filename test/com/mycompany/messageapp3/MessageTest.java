@@ -10,7 +10,7 @@ import org.junit.Before;
 import static org.junit.Assert.*;
 import java.util.List;
 import messageapp3.StoredMessage;
-
+//test for message
 /**
  * @author lab_services_student
  */
